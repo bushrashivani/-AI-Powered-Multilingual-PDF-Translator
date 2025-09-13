@@ -1,0 +1,8 @@
+PyPDF2
+summa
+googletrans==4.0.0-rc1
+pytesseract
+fpdf2
+langdetect
+Pillow
+asyncio
